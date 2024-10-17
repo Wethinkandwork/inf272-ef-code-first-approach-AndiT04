@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/BiTpaZ6v)
 # INF272 EF-Code First MVC Application
 
 This assignment demonstrates how to apply the concepts learned in Entity Framework by using the **Code First** approach to build an ASP.NET MVC application. The assignment involves creating models based on a given database design and generating the necessary database context and controllers.
